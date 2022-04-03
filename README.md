@@ -1,5 +1,8 @@
 # weatherMapXPokemon
-Under development: Project Java Backend with Angular Frontend "OpenWeatherMap x Pokémon"
+<h4>Under development: Project Java Backend with Angular Frontend "OpenWeatherMap x Pokémon"</h4>
+<h5>Frontend in Angular | Backend in Java</h5>
+Objective: consume two external APIs and return a type of Pokémon according to the weather of the city that was researched.
+
 
 <p align="center">
   <img src="https://github.com/reafreitas1/weatherMapXPokemon/blob/main/assets/pokemon.jpeg?raw=true" width="150" height="150">
