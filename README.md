@@ -1,3 +1,12 @@
+# weatherMapXPokemon
+Under development: Project Java Backend with Angular Frontend "OpenWeatherMap x Pokémon"
+
+<p align="center">
+  <img src="https://github.com/reafreitas1/weatherMapXPokemon/blob/main/assets/pokemon.jpeg?raw=true" width="150" height="150">
+</p>
+
+
+
 # FrontAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
