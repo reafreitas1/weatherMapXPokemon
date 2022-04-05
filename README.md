@@ -5,7 +5,7 @@ Objective: consume two external APIs and return a type of Pokémon according to 
 
 
 <p align="center">
-  <img src="https://github.com/reafreitas1/weatherMapXPokemon/blob/main/assets/pokemon.jpeg?raw=true" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/reafreitas1/weatherMapXPokemon/63a7e60483e255c01213c7ed37d4385149d414b4/assets/pokemon.jpeg" width="150" height="150">
 </p>
 
 
