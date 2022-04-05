@@ -8,20 +8,19 @@
   </mat-card-header>
   <img mat-card-image src="https://github.com/reafreitas1/weatherMapXPokemon/raw/main/assets/pokemon.jpeg?raw=true" alt="Pokémon">
   <mat-card-content>
-    <p>City:</p>
-    <p>Weather:</p>
-    <p>Pokémon:</p>
+      <p mat-line="city">City:  {{items}}</p>
+      <p mat-line="weather">Weather:  {{items}}</p>
+      <p mat-line="name_pokemon">Pokémon:  {{items}}</p>
+      <img matListAvatar src="..." alt="...">
   </mat-card-content>
-  <form class="form">
+  <form class="form" method="get">
     <table class="full-width"><th>
       <td><mat-form-field class="full-width" appearance="fill">
-        <mat-label>Find The City!</mat-label>
+        <mat-label type="submit">Find The City!</mat-label>
         <input matInput placeholder="Ex. San Francisco">
       </mat-form-field></td>
     </table>
   </form>
-
 </mat-card>
-
 
 
