@@ -9,4 +9,13 @@ Objective: consume two external APIs and return a type of Pokémon according to 
 </p>
 
 
+<h4>Status on April 6, 2022</h4>
+<p>๑ Angular Frontend: practically finished.</p> 
+<p>๑ Java Backend: right now working to make a Java connection to an external API to return some information I need.</p>
+<h4>ϞϞ(๑⚈ ․̫ ⚈๑)∩</h4>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79333175/161961647-17ac6a46-69a3-43af-9219-9ad93b4531dd.png"
+</p>
+
 
