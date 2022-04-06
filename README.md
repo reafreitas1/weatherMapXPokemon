@@ -15,7 +15,7 @@ Objective: consume two external APIs and return a type of Pokémon according to 
 <h4>ϞϞ(๑⚈ ․̫ ⚈๑)∩</h4>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/79333175/161961647-17ac6a46-69a3-43af-9219-9ad93b4531dd.png"
+  <img src="https://user-images.githubusercontent.com/79333175/162005677-4fbcc769-6f80-4ecc-9dd1-a5db7c90fe89.png"
 </p>
 
 
