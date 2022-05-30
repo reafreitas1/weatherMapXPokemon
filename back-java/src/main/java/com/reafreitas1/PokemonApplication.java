@@ -26,7 +26,7 @@ public class PokemonApplication {
 	}
 
 	public static void call_me() throws Exception {
-		//(electric, ice, water, grass, ground, fire...) 
+		//electric, ice, water, grass, ground, fire... 
 
 		String url = "https://pokeapi.co/api/v2/type/electric";
 
