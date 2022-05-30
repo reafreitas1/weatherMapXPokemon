@@ -9,6 +9,8 @@ Objective: consume two external APIs and return a type of Pokémon according to 
 </p>
 
 
+![Captura de ecrã 2022-04-08 082945](https://user-images.githubusercontent.com/79333175/170971599-8cd0a827-a69d-4a55-bf6e-307bb0fd7590.jpg)
+
 
 <h4>ϞϞ(๑⚈ ․̫ ⚈๑)∩</h4>
 
